@@ -3,3 +3,6 @@
 /todo/
 /nbproject/
 /log/
+red4j-data/
+**/cp.txt
+**.java.orig
